@@ -11,6 +11,8 @@ public class ProducerConsumerExample {
     
     
     public static void main(String[] args) {
+        System.out.println("Hola Mundo!");
+        System.out.println("Mundo Hola!");
         
         PC pc = new PC();
         
